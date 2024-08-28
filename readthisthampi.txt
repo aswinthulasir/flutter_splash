@@ -1,0 +1,16 @@
+Thambi, dependencies ariyallo
+dependencies:  flutter:    sdk: flutter  flutter_native_splash:
+
+
+Timer(Duration(seconds: 3) // change if needed
+Navigator.of(context).pushReplacement // renavigate
+
+material page route nte HomePage ano enn onn nokiyekkene.. njn code shredichilla
+
+pubspec.yaml il splash screen add cheythekane.
+color venenkil mattaaam
+
+db njn onooode nokatte
+
+
+https://github.com/aswinthulasir/flutter_splash.git
